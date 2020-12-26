@@ -9,3 +9,5 @@ If you would like this to be maintained, please consider supporting me on Patreo
 <p align="center">
 <a href="https://www.patreon.com/Ixarus"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Patreon donate button" /> </a>
 </p>
+
+All saves were tested working on yuzu emulator.
