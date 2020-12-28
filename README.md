@@ -12,5 +12,5 @@ If you would like this to be maintained, please consider supporting me on Patreo
 
 All saves were tested working on yuzu emulator.
 
-## DISCLAIMER:
+## DISCLAIMER
 These save files aren't supposed to work online and they also never will!
