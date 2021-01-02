@@ -14,7 +14,7 @@ All saves were tested working on yuzu emulator.
 
 ## Downloading
 
-use [DownGit](https://downgit.github.io/)
+use [DownGit](https://downgit.github.io/) to download singular dumps from this archive
 
 ## DISCLAIMER
 These save files aren't supposed to work online and they also never will!
